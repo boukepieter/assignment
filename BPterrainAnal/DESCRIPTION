@@ -1,0 +1,10 @@
+Package: BPterrainAnal
+Type: Package
+Title: Uses different forms of terrain analyses.
+Version: 1.0
+Date: 2013-12-06
+Author: B.P. Ottow
+Maintainer: B.P. Ottow <boukepieter.ottow@wur.nl>
+Description: It contains all the function used in the main script of the applied geo-scripting assignment.
+License: GPL
+Depends: rasta, spgrass6, RCurl
